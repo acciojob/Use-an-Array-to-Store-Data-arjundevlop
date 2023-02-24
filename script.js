@@ -1,2 +1,1 @@
-var yourArray = ['Arjun',true,null,56,'Rohan world',45];
-console.log(yourArray);
+let yourArray = ['apple', 42, true, null, 'hello world'];
